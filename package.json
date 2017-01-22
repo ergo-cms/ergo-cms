@@ -1,6 +1,6 @@
 {
   "name": "ergo-cms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ergo CMS is a lightweight CMS",
   "main": "index.js",
   "scripts": {
