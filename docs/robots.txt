@@ -1,6 +1,0 @@
-
-User-agent: *
-Allow: /
-
-Sitemap: https://ergo-cms.github.io/sitemap.xml
-
